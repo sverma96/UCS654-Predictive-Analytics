@@ -1,0 +1,8 @@
+Model,BLEU,ROUGE,Perplexity,ResponseTime,ModelSize
+DialoGPT,0.72,0.68,18,1.2,345
+BlenderBot,0.78,0.75,15,1.5,400
+GPT-2,0.65,0.60,22,0.9,124
+LLaMA2-Chat,0.85,0.80,12,1.8,700
+Mistral-Chat,0.88,0.83,10,1.6,720
+T5-Conversational,0.70,0.66,20,1.1,300
+Falcon-Chat,0.82,0.79,14,1.7,650
