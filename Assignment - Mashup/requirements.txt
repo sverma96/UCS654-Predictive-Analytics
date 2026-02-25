@@ -1,0 +1,6 @@
+yt-dlp
+moviepy
+pydub
+tqdm
+flask
+flask-mail
