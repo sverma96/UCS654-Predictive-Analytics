@@ -105,8 +105,4 @@ mashup.zip
 
 ---
 
-## Author
-
-Santushti Verma
-Roll No: 102497014
-Course: UCS654 – Predictive Analytics
+## Sample output mashup files are included for demonstration.
